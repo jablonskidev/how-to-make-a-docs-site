@@ -51,7 +51,7 @@ By the end of this article, you'll be ready to make your first docs site.
 
 ### Who I Am
 
-Hi 👋 I'm Joanna Jablonski. I've been working in **developer education** since 2018. As CircleCI's first Information Architect, I planned the replatforming of the docs site as a team of one. Right now, I'm a Senior Education Engineer at CircleCI.
+Hi 👋 I'm Joanna Jablonski. I've been working in **developer education** since 2018. As CircleCI's first Information Architect, I planned the replatforming of the docs site as a team of one. Right now, I'm a Staff Education Engineer at CircleCI.
 
 Feel free to reach out:
 - [jojab.dev](https://www.jojab.dev)
