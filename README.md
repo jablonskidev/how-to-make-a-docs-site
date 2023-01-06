@@ -68,7 +68,7 @@ You can save yourself time and effort if you:
 
 ### Docs as Code
 
-[Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) in an approach to making docs that lets you use the tools and practices you're already using for code, such as issue trackers, version control, and automation.
+[Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) is an approach to making docs that lets you use the tools and practices you're already using for code, such as issue trackers, version control, and automation.
 
 You can:
 - Write your docs content in a [markup language](https://en.wikipedia.org/wiki/Markup_language).
