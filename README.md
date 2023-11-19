@@ -134,7 +134,7 @@ There are four types of documentation that help your users achieve different goa
 | **Need practical steps**       | Tutorials: learning skills          | How-to guides: solving problems   |
 | **Need theoretical knowledge** | Discussions: understanding concepts | Reference: looking up details     |   
 
-If you plan your docs using these four types, then the purpose of each page will be clearer. That will make each resource easier to find and easier to maintain. To learn more, check out [Daniel Porcida's talk](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/).
+If you plan your docs using these four types, then the purpose of each page will be clearer. That will make each resource easier to find and easier to maintain. To learn more, check out [Daniele Procida's talk](https://www.writethedocs.org/videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/).
 
 ### Page Structure
 
